@@ -25,5 +25,5 @@
   
   ### :man_technologist: About Me :
 
-  I am an aspiring indie game developer
+  I am an beginner indie game developer
 </div>
