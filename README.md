@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnR0cm8yeGdxdThkcnBhcXprbXd4YXpvcWwzb2R3cmFrazEyamswZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align = "center">
   <a href="https://t.me/archont0">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
@@ -23,7 +23,7 @@
   
   ---
   
-  ### :woman_technologist: About Me :
+  ### :man_technologist: About Me :
 
   I am an aspiring indie game developer
 </div>
