@@ -6,9 +6,6 @@
   <a href="https://t.me/archont0">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://vk.com/archont0">
-    <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white" alt="VK Badge"/>
-  </a>
   
   <h1 align="center">
     Hi 👋
