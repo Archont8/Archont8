@@ -29,7 +29,7 @@
 
 👨‍💻 All of my projects are available at repository "My_projects"
 
-⚡ Fun fact: **I had installed Arch Linux with 0 knowledge of Linux and spent for this 1 week**
+⚡ Fun fact: **I use arch with awesome wm btw**
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
