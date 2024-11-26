@@ -13,7 +13,7 @@
   <!-- Telegram link -->
 <div id="badges" align = "center">
   <a href="https://t.me/archont0">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge" width="130" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram" width="100" height="100"/>
   </a>
   </div>
   
