@@ -21,7 +21,7 @@
   
   ### :man_technologist: About me :
 
-🎮 I am an beginner indie game developer
+🎮 I am a beginner indie game developer
   
 🌱 I’m currently learning **Unity, C# and 1C:Enterprise**
 
