@@ -23,7 +23,7 @@
 
 - 🎮 I am an beginner indie game developer
   
-- 🌱 I’m currently learning **Unity and C#**
+- 🌱 I’m currently learning **Unity, C# and some Lua**
 
 - 👯 I’m looking to collaborate on **any game projects**
 
