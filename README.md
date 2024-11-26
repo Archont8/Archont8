@@ -56,5 +56,5 @@
 
 ---
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=archont&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archont8&show_icons=true&locale=en&layout=compact&theme=dark" alt="archont8" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=archont&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="widget1" /></a>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archont8&show_icons=true&locale=en&layout=compact&theme=dark" alt="widget3" /></p>
