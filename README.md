@@ -21,15 +21,15 @@
   
   ### :man_technologist: About me :
 
-- 🎮 I am an beginner indie game developer
+🎮 I am an beginner indie game developer
   
-- 🌱 I’m currently learning **Unity, C# and some Lua**
+🌱 I’m currently learning **Unity, C# and some Lua**
 
-- 👯 I’m looking to collaborate on **any game projects**
+👯 I’m looking to collaborate on **any game projects**
 
-- 👨‍💻 All of my projects are available at repository "My_projects"
+👨‍💻 All of my projects are available at repository "My_projects"
 
-- ⚡ Fun fact: **I had installed Arch Linux with 0 knowledge of Linux and spent for this 1 week**
+⚡ Fun fact: **I had installed Arch Linux with 0 knowledge of Linux and spent for this 1 week**
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
