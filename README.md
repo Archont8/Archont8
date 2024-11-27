@@ -56,7 +56,7 @@
 
 ---
 
-<a> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=archont8&show_icons=true&locale=en&layout=compact&theme=dark" alt="widget3" /></a>
+<a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archont8&layout=compact&theme=dark" alt="widget3" /></a>
 
 <a> <img src="https://github-readme-stats.vercel.app/api?username=archont8&include_all_commits=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,000000" alt="widget2" /></a>
 
