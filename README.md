@@ -27,8 +27,6 @@
 
 👯 I’m looking to collaborate on **any game projects**
 
-👨‍💻 All of my pet projects are available at repository "My_projects"
-
 ⚡ Fun fact: **I use arch with awesome wm btw**
 
 
