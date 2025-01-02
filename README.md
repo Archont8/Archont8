@@ -21,13 +21,11 @@
   
   ### :man_technologist: About me :
 
-🎮 I am a beginner indie game developer
+🎮 I am a beginner developer
   
-🌱 I’m currently learning **Unity, C# and 1C:Enterprise**
+🌱 I’m currently learning **C#, C++ and 1C:Enterprise**
 
-👯 I’m looking to collaborate on **any game projects**
-
-⚡ Fun fact: **I use arch with awesome wm btw**
+⚡ Fun fact: **I use arch btw**
 
 
 
@@ -46,7 +44,6 @@
 <h3 align="left">Tools:</h3>
 <p align="left">
   
-  <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="80" height="80"/> </a>
   <a target="_blank" rel="noreferrer"> <img src="https://kassa.bifit.com/wiki/images/thumb/7/72/Product-1c.svg/2048px-Product-1c.svg.png" alt="1c" width="80" height="80"/> </a>
   <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> </a> 
 
