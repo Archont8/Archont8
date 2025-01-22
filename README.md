@@ -55,5 +55,3 @@
 <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archont8&layout=compact&theme=dark" alt="widget3" /></a>
 
 <a> <img src="https://github-readme-stats.vercel.app/api?username=archont8&include_all_commits=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFA500&text_color=A1A1A1&bg_color=0,151515,151515" alt="widget2" /></a>
-
-<a> <img src="https://github-readme-streak-stats.herokuapp.com?user=archont&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="widget1" /></a>
