@@ -36,7 +36,7 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
 
-  <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="80" height="80"/></a>
+  <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="70" height="80"/></a>
   <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/></a>
   <a target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="80" height="80"/> </a>
 
