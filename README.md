@@ -23,10 +23,7 @@
 
 🎮 I am a beginner developer
   
-🌱 I’m currently learning **C#, C++ and 1C:Enterprise**
-
-⚡ Fun fact: **I use arch btw**
-
+🌱 I’m currently learning **C# and python**
 
 
 
@@ -36,7 +33,7 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
 
-  <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="70" height="80"/></a>
+  <a target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/112/PNG/512/python_18894.png" alt="python" width="70" height="80"/></a>
   <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/></a>
   <a target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="80" height="80"/> </a>
 
@@ -45,7 +42,6 @@
 <h3 align="left">Tools:</h3>
 <p align="left">
   
-  <a target="_blank" rel="noreferrer"> <img src="https://kassa.bifit.com/wiki/images/thumb/7/72/Product-1c.svg/2048px-Product-1c.svg.png" alt="1c" width="80" height="80"/> </a>
   <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> </a> 
 
 </p> 
